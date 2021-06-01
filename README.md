@@ -7,5 +7,15 @@ All files for the project of 3 phase motor driver.
 
 - Project year : 2014 - 2015
 
+## Hardware Tools
+- MSP430
+
+## Software Tools
+- Code Compare Studio
+- Altium
+
+## Programming Language
+- C
+
 
 
